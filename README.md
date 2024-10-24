@@ -1,6 +1,6 @@
 ## Leet SQL
 
-A SQL problem a day keeps the senior role at bay. SQL50
+A SQL problem a day keeps the doctor away. SQL50
 
 ### Completed
 
